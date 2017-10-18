@@ -35,10 +35,12 @@ In order for your pull request to be accepted:
 3.No abusive content/urls
 
 ## sharing your useful link's
--username (Can be link to your Github)
--Name of resource
--small summary of what it is
--url to visit
+
+#### -username (Can be link to your Github)
+
+#### -small summary of what it is
+
+#### -url to visit
 
 Add your contribution below
 

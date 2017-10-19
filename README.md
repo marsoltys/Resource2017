@@ -61,3 +61,20 @@ Add your contribution below
 Simple Docker development environments for Laravel.
 https://vessel.shippingdocker.com/
 
+-stevepop
+
+-Text Editors
+-Sublime 
+A sophisticated text editor for code, markup and prose
+https://www.sublimetext.com/
+
+- Visual Studio Code
+Open Source Text Editor backed by Microsoft
+https://code.visualstudio.com/
+
+- PHPStorm
+Lightning-smart PHP IDE
+https://www.jetbrains.com/phpstorm/
+
+
+

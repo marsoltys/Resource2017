@@ -79,5 +79,8 @@ https://code.visualstudio.com/
 Lightning-smart PHP IDE
 https://www.jetbrains.com/phpstorm/
 
+- marsoltys
+- Brackets http://brackets.io/ Best tool for front-end developers
+
 
 
